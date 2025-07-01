@@ -1,4 +1,0 @@
-batch_size,runtime_ms
-32,29
-64,38.3
-128,46.8
