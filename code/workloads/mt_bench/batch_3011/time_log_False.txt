@@ -1,0 +1,421 @@
+----------------- batch_3011/rerun_qps0.275_queue-1.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 658.0226421356201
+TTFT 50th Percentile: 87.2335433959961
+TTFT Average: 164.56866264343262
+E2E 95th Percentile: 71853.00302505493
+E2E 50th Percentile: 10750.666618347168
+E2E Average: 28686.64991409701
+----------------- batch_3011/rerun_qps0.275_queue-1.0_cert0.6_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4810.634136199951
+TTFT 50th Percentile: 265.77091217041016
+TTFT Average: 932.2610305729055
+E2E 95th Percentile: 121362.51401901245
+E2E 50th Percentile: 33523.00477027893
+E2E Average: 43971.50438563187
+----------------- batch_3011/rerun_qps0.275_queue400.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 550.795316696167
+TTFT 50th Percentile: 93.8253402709961
+TTFT Average: 161.53333965976933
+E2E 95th Percentile: 74050.46582221985
+E2E 50th Percentile: 12387.368202209473
+E2E Average: 29926.157599375434
+----------------- batch_3011/rerun_qps0.275_queue400.0_cert0.6_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4690.018653869629
+TTFT 50th Percentile: 272.9012966156006
+TTFT Average: 910.9989044969516
+E2E 95th Percentile: 121296.41032218933
+E2E 50th Percentile: 32577.82554626465
+E2E Average: 44291.25810323511
+----------------- batch_3011/rerun_qps0.275_queue400.0_cert0.2_i3_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 554.6510219573975
+TTFT 50th Percentile: 115.08655548095703
+TTFT Average: 163.14730798811686
+E2E 95th Percentile: 68109.27367210388
+E2E 50th Percentile: 16874.216556549072
+E2E Average: 28033.99174231246
+----------------- batch_3011/rerun_qps0.275_queue400.0_cert0.6_i3_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4913.656949996948
+TTFT 50th Percentile: 283.3588123321533
+TTFT Average: 961.4217257559151
+E2E 95th Percentile: 116108.15143585205
+E2E 50th Percentile: 34049.03507232666
+E2E Average: 43988.73391948139
+----------------- batch_3011/rerun_qps0.275_queue800.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 687.5979900360107
+TTFT 50th Percentile: 142.32683181762695
+TTFT Average: 210.1812546984513
+E2E 95th Percentile: 105126.49750709534
+E2E 50th Percentile: 32314.879417419434
+E2E Average: 41088.78654078058
+----------------- batch_3011/rerun_qps0.275_queue800.0_cert0.6_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 5533.529996871948
+TTFT 50th Percentile: 337.19587326049805
+TTFT Average: 1090.2477327427662
+E2E 95th Percentile: 121534.64198112488
+E2E 50th Percentile: 33510.83707809448
+E2E Average: 45416.02956446032
+----------------- batch_3011/rerun_qps0.275_queue800.0_cert0.2_i3_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 610.8865737915039
+TTFT 50th Percentile: 158.59460830688477
+TTFT Average: 204.04425999172906
+E2E 95th Percentile: 99218.60456466675
+E2E 50th Percentile: 32314.72396850586
+E2E Average: 36865.28770227979
+----------------- batch_3011/rerun_qps0.275_queue800.0_cert0.6_i3_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4874.527931213379
+TTFT 50th Percentile: 314.56446647644043
+TTFT Average: 954.702788754889
+E2E 95th Percentile: 119250.46372413635
+E2E 50th Percentile: 34206.15220069885
+E2E Average: 44311.05762289052
+----------------- batch_3011/rerun_qps0.275_queue1600.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 674.1302013397217
+TTFT 50th Percentile: 150.39849281311035
+TTFT Average: 227.81031506317214
+E2E 95th Percentile: 108762.05134391785
+E2E 50th Percentile: 35319.85878944397
+E2E Average: 43946.81951173226
+----------------- batch_3011/rerun_qps0.275_queue1600.0_cert0.6_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 5698.978662490845
+TTFT 50th Percentile: 300.80437660217285
+TTFT Average: 1121.7640992114668
+E2E 95th Percentile: 121363.55590820312
+E2E 50th Percentile: 35165.47465324402
+E2E Average: 47589.79800573905
+----------------- batch_3011/rerun_qps0.275_queue1600.0_cert0.2_i3_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 646.3146209716797
+TTFT 50th Percentile: 162.750244140625
+TTFT Average: 232.00558308056762
+E2E 95th Percentile: 115582.82828330994
+E2E 50th Percentile: 36020.740270614624
+E2E Average: 42115.564141784824
+----------------- batch_3011/rerun_qps0.275_queue1600.0_cert0.6_i3_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4987.542390823364
+TTFT 50th Percentile: 303.6158084869385
+TTFT Average: 1000.5849483899048
+E2E 95th Percentile: 121092.03696250916
+E2E 50th Percentile: 36002.90942192078
+E2E Average: 47492.9266736989
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 908.0934524536133
+TTFT 50th Percentile: 174.13568496704102
+TTFT Average: 332.7314502877785
+E2E 95th Percentile: 119981.75525665283
+E2E 50th Percentile: 36851.48572921753
+E2E Average: 47218.346991146595
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.6_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 5639.442920684814
+TTFT 50th Percentile: 294.3394184112549
+TTFT Average: 1126.189923940454
+E2E 95th Percentile: 120687.47138977051
+E2E 50th Percentile: 35658.530950546265
+E2E Average: 46742.96811393966
+----------------- batch_3011/rerun_qps0.275_queue6000.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1484.3311309814453
+TTFT 50th Percentile: 285.92753410339355
+TTFT Average: 474.7774713949075
+E2E 95th Percentile: 119695.1744556427
+E2E 50th Percentile: 34547.43695259094
+E2E Average: 46273.211023159456
+----------------- batch_3011/rerun_qps0.275_queue6000.0_cert0.6_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 6268.093824386597
+TTFT 50th Percentile: 436.8405342102051
+TTFT Average: 1374.1644088764142
+E2E 95th Percentile: 120530.5643081665
+E2E 50th Percentile: 34854.952335357666
+E2E Average: 47354.96936058463
+----------------- batch_3011/rerun_qps0.275_queue1000.0_cert0.2_i1_8b_70b_2x1600_42s.json
+TTFT 95th Percentile: 723.2296466827393
+TTFT 50th Percentile: 147.9816436767578
+TTFT Average: 220.59478188987978
+E2E 95th Percentile: 111275.20322799683
+E2E 50th Percentile: 44769.94800567627
+E2E Average: 55643.17970263988
+----------------- batch_3011/rerun_qps0.275_queue1000.0_cert0.6_i1_8b_70b_2x1600_42s.json
+TTFT 95th Percentile: 5669.220685958862
+TTFT 50th Percentile: 331.0582637786865
+TTFT Average: 1097.0356095758757
+E2E 95th Percentile: 120043.90215873718
+E2E 50th Percentile: 37795.5048084259
+E2E Average: 49530.0010469489
+----------------- batch_3011/rerun_qps0.275_queue2000.0_cert0.2_i1_8b_70b_2x1600_42s.json
+TTFT 95th Percentile: 883.9540481567383
+TTFT 50th Percentile: 166.63742065429688
+TTFT Average: 292.3570077615486
+E2E 95th Percentile: 119283.34379196167
+E2E 50th Percentile: 41906.182527542114
+E2E Average: 53288.70528475602
+----------------- batch_3011/rerun_qps0.275_queue2000.0_cert0.6_i1_8b_70b_2x1600_42s.json
+TTFT 95th Percentile: 5450.5934715271
+TTFT 50th Percentile: 303.1134605407715
+TTFT Average: 1090.6051323003603
+E2E 95th Percentile: 121507.03358650208
+E2E 50th Percentile: 37620.659828186035
+E2E Average: 49451.151103450175
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.2_i1_8b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1011.6965770721436
+TTFT 50th Percentile: 210.15286445617676
+TTFT Average: 350.6398973916831
+E2E 95th Percentile: 121217.53597259521
+E2E 50th Percentile: 41435.81676483154
+E2E Average: 50658.69901899685
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.6_i1_8b_70b_2x1600_42s.json
+TTFT 95th Percentile: 5527.847051620483
+TTFT 50th Percentile: 300.33206939697266
+TTFT Average: 1115.4755160695597
+E2E 95th Percentile: 122093.15013885498
+E2E 50th Percentile: 36412.431955337524
+E2E Average: 49215.07792817684
+----------------- batch_3011/rerun_qps0.275_queue6000.0_cert0.2_i1_8b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1639.4143104553223
+TTFT 50th Percentile: 287.3220443725586
+TTFT Average: 512.2325253902825
+E2E 95th Percentile: 120726.98020935059
+E2E 50th Percentile: 36375.887393951416
+E2E Average: 48237.851966348964
+----------------- batch_3011/rerun_qps0.275_queue6000.0_cert0.6_i1_8b_70b_2x1600_42s.json
+TTFT 95th Percentile: 6427.936315536499
+TTFT 50th Percentile: 450.9265422821045
+TTFT Average: 1424.5238946263034
+E2E 95th Percentile: 121210.67452430725
+E2E 50th Percentile: 35646.40736579895
+E2E Average: 47718.692850293664
+----------------- batch_3011/rerun_qps0.275_queue1000.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 542.9811477661133
+TTFT 50th Percentile: 138.14973831176758
+TTFT Average: 172.34885008852382
+E2E 95th Percentile: 91128.31616401672
+E2E 50th Percentile: 15943.360090255737
+E2E Average: 33017.18604237659
+----------------- batch_3011/rerun_qps0.275_queue1000.0_cert0.6_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4563.586950302124
+TTFT 50th Percentile: 290.9073829650879
+TTFT Average: 889.432193037875
+E2E 95th Percentile: 119580.11937141418
+E2E 50th Percentile: 31715.689182281494
+E2E Average: 42343.17313584306
+----------------- batch_3011/rerun_qps0.275_queue2000.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 635.3955268859863
+TTFT 50th Percentile: 149.1854190826416
+TTFT Average: 239.51889392443726
+E2E 95th Percentile: 109676.00631713867
+E2E 50th Percentile: 35916.449785232544
+E2E Average: 46209.064590068825
+----------------- batch_3011/rerun_qps0.275_queue2000.0_cert0.6_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4960.492372512817
+TTFT 50th Percentile: 287.5692844390869
+TTFT Average: 981.1707999640867
+E2E 95th Percentile: 121426.33128166199
+E2E 50th Percentile: 35893.054246902466
+E2E Average: 46215.53055722814
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 845.4041481018066
+TTFT 50th Percentile: 158.08653831481934
+TTFT Average: 308.49142859404225
+E2E 95th Percentile: 120414.25275802612
+E2E 50th Percentile: 35375.1266002655
+E2E Average: 45977.506660761086
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.6_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4920.768022537231
+TTFT 50th Percentile: 286.3600254058838
+TTFT Average: 983.906140648516
+E2E 95th Percentile: 121425.30298233032
+E2E 50th Percentile: 35615.6325340271
+E2E Average: 45905.91562953673
+----------------- batch_3011/rerun_qps0.275_queue6000.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1434.5152378082275
+TTFT 50th Percentile: 272.0816135406494
+TTFT Average: 449.15172940775045
+E2E 95th Percentile: 119981.18495941162
+E2E 50th Percentile: 35873.905420303345
+E2E Average: 47666.14641810296
+----------------- batch_3011/rerun_qps0.275_queue6000.0_cert0.6_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 5944.661378860474
+TTFT 50th Percentile: 434.4062805175781
+TTFT Average: 1310.7529180008278
+E2E 95th Percentile: 121185.48226356506
+E2E 50th Percentile: 34644.72436904907
+E2E Average: 46357.70874368282
+----------------- batch_3011/rerun_mem03_qps0.275_queue200.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 567.6870346069336
+TTFT 50th Percentile: 90.25382995605469
+TTFT Average: 160.91873223644836
+E2E 95th Percentile: 72913.19060325623
+E2E 50th Percentile: 12021.692276000977
+E2E Average: 29836.367406155405
+----------------- batch_3011/rerun_mem03_qps0.275_queue200.0_cert0.6_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4681.15758895874
+TTFT 50th Percentile: 264.4810676574707
+TTFT Average: 905.9250390440449
+E2E 95th Percentile: 120664.77918624878
+E2E 50th Percentile: 31029.09541130066
+E2E Average: 43111.66304662043
+----------------- batch_3011/rerun_mem03_qps0.275_queue600.0_cert0.4_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 954.5941352844238
+TTFT 50th Percentile: 170.80044746398926
+TTFT Average: 285.7495567150544
+E2E 95th Percentile: 114507.10988044739
+E2E 50th Percentile: 32443.199396133423
+E2E Average: 42939.81933712662
+----------------- batch_3011/rerun_mem03_qps0.275_queue1000.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 633.7602138519287
+TTFT 50th Percentile: 141.56770706176758
+TTFT Average: 201.01544684602732
+E2E 95th Percentile: 103832.32140541077
+E2E 50th Percentile: 33003.499031066895
+E2E Average: 41274.088358343986
+----------------- batch_3011/rerun_mem03_qps0.275_queue1000.0_cert0.6_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 5120.086431503296
+TTFT 50th Percentile: 295.81522941589355
+TTFT Average: 1016.7004645911238
+E2E 95th Percentile: 121448.94480705261
+E2E 50th Percentile: 33543.73478889465
+E2E Average: 44412.30403039224
+----------------- batch_3011/vllm_qps0.275_70b_2x1600_47s.json
+TTFT 95th Percentile: 145.97153663635254
+TTFT 50th Percentile: 136.08980178833008
+TTFT Average: 119.31732527335683
+E2E 95th Percentile: 121483.88147354126
+E2E 50th Percentile: 34670.91393470764
+E2E Average: 44447.83761495366
+----------------- batch_3011/vllm_qps0.275_3b_2x1600_47s.json
+TTFT 95th Percentile: 40.97700119018555
+TTFT 50th Percentile: 27.205467224121094
+TTFT Average: 27.7055487073865
+E2E 95th Percentile: 116203.27734947205
+E2E 50th Percentile: 4245.176315307617
+E2E Average: 33277.379777366084
+----------------- batch_3011/rerun_mem03_qps0.275_queue9999999.0_cert0.0_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 7764.090299606323
+TTFT 50th Percentile: 510.3754997253418
+TTFT Average: 1868.609692984983
+E2E 95th Percentile: 121459.70487594604
+E2E 50th Percentile: 35190.97399711609
+E2E Average: 46928.25743920191
+----------------- batch_3011/rerun_mem03_qps0.275_queue9999999.0_cert0.0_i1_1b_3b_2x1600_42s.json
+TTFT 95th Percentile: 233.98184776306152
+TTFT 50th Percentile: 33.41817855834961
+TTFT Average: 71.85555931338645
+E2E 95th Percentile: 19848.848581314087
+E2E 50th Percentile: 2297.5215911865234
+E2E Average: 7504.252055042105
+----------------- batch_3011/rerun_mem03_qps0.275_queue9999999.0_cert0.0_i1_1b_1b_2x1600_42s.json
+TTFT 95th Percentile: 133.05115699768066
+TTFT 50th Percentile: 21.079301834106445
+TTFT Average: 42.991516298783985
+E2E 95th Percentile: 9763.386011123657
+E2E 50th Percentile: 663.0144119262695
+E2E Average: 2458.9497490119456
+----------------- batch_3011/rerun_qps0.275_queue400.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 447.79157638549805
+TTFT 50th Percentile: 81.51102066040039
+TTFT Average: 125.98170782265223
+E2E 95th Percentile: 58188.08674812317
+E2E 50th Percentile: 5646.647930145264
+E2E Average: 19442.4774260295
+----------------- batch_3011/rerun_qps0.275_queue400.0_cert0.6_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4390.728712081909
+TTFT 50th Percentile: 244.18258666992188
+TTFT Average: 851.4232528477238
+E2E 95th Percentile: 120277.25553512573
+E2E 50th Percentile: 26421.650886535645
+E2E Average: 40844.51068844878
+----------------- batch_3011/rerun_qps0.275_queue800.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 524.7659683227539
+TTFT 50th Percentile: 135.62750816345215
+TTFT Average: 165.58754711674337
+E2E 95th Percentile: 91043.84899139404
+E2E 50th Percentile: 16586.095094680786
+E2E Average: 33500.79045153021
+----------------- batch_3011/rerun_qps0.275_queue800.0_cert0.6_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4528.847217559814
+TTFT 50th Percentile: 292.9728031158447
+TTFT Average: 888.9625762168903
+E2E 95th Percentile: 120371.3219165802
+E2E 50th Percentile: 31119.190454483032
+E2E Average: 43425.12508282935
+----------------- batch_3011/rerun_qps0.275_queue1200.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 570.9764957427979
+TTFT 50th Percentile: 139.55974578857422
+TTFT Average: 183.6614555254244
+E2E 95th Percentile: 98523.36597442627
+E2E 50th Percentile: 23297.75881767273
+E2E Average: 37515.689580517814
+----------------- batch_3011/rerun_qps0.275_queue1200.0_cert0.6_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4576.435327529907
+TTFT 50th Percentile: 283.16283226013184
+TTFT Average: 889.3480972756174
+E2E 95th Percentile: 120718.74952316284
+E2E 50th Percentile: 32734.91907119751
+E2E Average: 43977.37718579775
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 837.9802703857422
+TTFT 50th Percentile: 153.1364917755127
+TTFT Average: 305.62264306884157
+E2E 95th Percentile: 120998.76713752747
+E2E 50th Percentile: 36722.40996360779
+E2E Average: 47535.01744995688
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.6_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 4762.598752975464
+TTFT 50th Percentile: 289.40749168395996
+TTFT Average: 967.5399353379323
+E2E 95th Percentile: 121508.92186164856
+E2E 50th Percentile: 35096.2278842926
+E2E Average: 46355.716682728984
+----------------- batch_3011/rerun_qps0.275_queue400.0_cert0.2_i1_1b_3b_2x1600_42s.json
+TTFT 95th Percentile: 209.46216583251953
+TTFT 50th Percentile: 40.160179138183594
+TTFT Average: 66.73072401127614
+E2E 95th Percentile: 22269.29759979248
+E2E 50th Percentile: 1662.5704765319824
+E2E Average: 6551.561001827592
+----------------- batch_3011/rerun_qps0.275_queue400.0_cert0.6_i1_1b_3b_2x1600_42s.json
+TTFT 95th Percentile: 313.5411739349365
+TTFT 50th Percentile: 54.72683906555176
+TTFT Average: 100.34903326533977
+E2E 95th Percentile: 29718.901872634888
+E2E 50th Percentile: 3360.238790512085
+E2E Average: 10823.144551821777
+----------------- batch_3011/rerun_qps0.275_queue800.0_cert0.2_i1_1b_3b_2x1600_42s.json
+TTFT 95th Percentile: 238.3897304534912
+TTFT 50th Percentile: 36.07344627380371
+TTFT Average: 75.23789370149152
+E2E 95th Percentile: 26586.549758911133
+E2E 50th Percentile: 2461.045742034912
+E2E Average: 8849.799012305433
+----------------- batch_3011/rerun_qps0.275_queue800.0_cert0.6_i1_1b_3b_2x1600_42s.json
+TTFT 95th Percentile: 292.09446907043457
+TTFT 50th Percentile: 52.454471588134766
+TTFT Average: 91.87081389296382
+E2E 95th Percentile: 29380.316019058228
+E2E 50th Percentile: 3278.0520915985107
+E2E Average: 10679.732771585706
+----------------- batch_3011/rerun_qps0.275_queue1200.0_cert0.2_i1_1b_3b_2x1600_42s.json
+TTFT 95th Percentile: 223.67572784423828
+TTFT 50th Percentile: 37.456512451171875
+TTFT Average: 70.22409367739708
+E2E 95th Percentile: 26148.271560668945
+E2E 50th Percentile: 2572.9191303253174
+E2E Average: 9370.58612652253
+----------------- batch_3011/rerun_qps0.275_queue1200.0_cert0.6_i1_1b_3b_2x1600_42s.json
+TTFT 95th Percentile: 305.4070472717285
+TTFT 50th Percentile: 54.02112007141113
+TTFT Average: 95.24708555226314
+E2E 95th Percentile: 31233.16764831543
+E2E 50th Percentile: 3649.7857570648193
+E2E Average: 11685.833115232854
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.2_i1_1b_3b_2x1600_42s.json
+TTFT 95th Percentile: 241.26672744750977
+TTFT 50th Percentile: 37.5056266784668
+TTFT Average: 75.8240633177341
+E2E 95th Percentile: 28175.389051437378
+E2E 50th Percentile: 3523.8144397735596
+E2E Average: 10542.874321378675
+----------------- batch_3011/rerun_qps0.275_queue4000.0_cert0.6_i1_1b_3b_2x1600_42s.json
+TTFT 95th Percentile: 320.8785057067871
+TTFT 50th Percentile: 35.99882125854492
+TTFT Average: 85.56516747224956
+E2E 95th Percentile: 29029.897689819336
+E2E 50th Percentile: 4093.0259227752686
+E2E Average: 10811.140106800489
+----------------- batch_3011/rerun_qps0.4_queue400.0_cert0.2_i3_1b_70b_2x1600_80s.json

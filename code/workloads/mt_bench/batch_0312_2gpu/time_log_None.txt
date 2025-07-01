@@ -1,0 +1,7 @@
+----------------- batch_0312_2gpu/Meta-Llama-3.1-70B-Instruct-quantized.w4a16
+TTFT 95th Percentile: 2210.747241973877
+TTFT 50th Percentile: 542.779803276062
+TTFT Average: 770.5644515844492
+E2E 95th Percentile: 183439.73398208618
+E2E 50th Percentile: 47059.19814109802
+E2E Average: 64907.94116607079

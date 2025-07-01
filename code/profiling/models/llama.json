@@ -1,0 +1,27 @@
+{
+  "llama_03b": {
+    "runtime": {
+      "default": [0.1234750747680664, 0.0]
+    },
+    "memory": [2606360000, 0]
+  },
+  "llama_07b": {
+    "runtime": {
+      "default": [0.21223187446594238, 0.0]
+    },
+    "memory": [4662470000, 0]
+  },
+  "llama_13b": {
+    "runtime": {
+      "default": [0.3815484046936035, 0.0]
+    },
+    "memory": [8473520000, 0]
+  },
+  "llama_70b": {
+    "runtime": {
+      "default": [0.918332576751709, 0.918332576751709]
+    },
+    "memory": [17210720000, 17710740000],
+    "comment": "gs 16,18 split, gpu runtime = total runtime / 2"
+  }
+}

@@ -1,0 +1,259 @@
+----------------- batch_0312_2gpu/qps0.1_queue200.0_cert0.4_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 304.10861968994124
+TTFT 50th Percentile: 108.61563682556152
+TTFT Average: 126.25433184065909
+E2E 95th Percentile: 182431.51941299438
+E2E 50th Percentile: 36897.47428894043
+E2E Average: 57700.55905827936
+----------------- batch_0312_2gpu/qps0.125_queue9999999.0_cert0.0_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 2488.906443119049
+TTFT 50th Percentile: 225.62801837921143
+TTFT Average: 533.472660659016
+E2E 95th Percentile: 152624.5306134224
+E2E 50th Percentile: 34319.41616535187
+E2E Average: 53279.67743424402
+----------------- batch_0312_2gpu/qps0.125_queue200.0_cert0.4_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 444.6549415588379
+TTFT 50th Percentile: 106.82964324951172
+TTFT Average: 144.92525311483854
+E2E 95th Percentile: 110286.86285018921
+E2E 50th Percentile: 29898.34427833557
+E2E Average: 39855.16915632331
+----------------- batch_0312_2gpu/qps0.125_queue800.0_cert0.8_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1360.9406352043152
+TTFT 50th Percentile: 229.70175743103027
+TTFT Average: 339.322693106057
+E2E 95th Percentile: 141847.84358739853
+E2E 50th Percentile: 31062.926054000854
+E2E Average: 49153.179395026054
+----------------- batch_0312_2gpu/qps0.125_queue1600.0_cert0.8_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1389.7507786750793
+TTFT 50th Percentile: 225.7610559463501
+TTFT Average: 371.9091985536658
+E2E 95th Percentile: 151429.12083864212
+E2E 50th Percentile: 33394.15144920349
+E2E Average: 52718.54584545329
+----------------- batch_0312_2gpu/qps0.15_queue1600.0_cert0.4_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1039.9590969085693
+TTFT 50th Percentile: 231.3849925994873
+TTFT Average: 339.2048710200633
+E2E 95th Percentile: 160627.34174728394
+E2E 50th Percentile: 40583.61577987671
+E2E Average: 59269.432349031376
+----------------- batch_0312_2gpu/qps0.15_queue200.0_cert0.8_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 5728.116035461423
+TTFT 50th Percentile: 244.03619766235352
+TTFT Average: 1436.1520648336543
+E2E 95th Percentile: 172657.81264305115
+E2E 50th Percentile: 34582.640409469604
+E2E Average: 56314.54149280943
+----------------- batch_0312_2gpu/qps0.15_queue1200.0_cert0.8_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 6605.185556411743
+TTFT 50th Percentile: 251.19256973266602
+TTFT Average: 1660.5560479043913
+E2E 95th Percentile: 174117.52104759216
+E2E 50th Percentile: 37120.42188644409
+E2E Average: 59506.44094002347
+----------------- batch_0312_2gpu/qps0.15_queue9999999.0_cert0.0_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 2783.5001945495605
+TTFT 50th Percentile: 360.3324890136719
+TTFT Average: 709.5162668148008
+E2E 95th Percentile: 177718.88089179993
+E2E 50th Percentile: 39028.11360359192
+E2E Average: 60910.51860349853
+----------------- batch_0312_2gpu/qps0.15_queue800.0_cert0.4_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 945.2121257781982
+TTFT 50th Percentile: 148.81491661071777
+TTFT Average: 254.93906859924147
+E2E 95th Percentile: 159077.1267414093
+E2E 50th Percentile: 39021.36206626892
+E2E Average: 59506.001908572114
+----------------- batch_0312_2gpu/qps0.15_queue-1.0_cert0.4_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 943.9239501953125
+TTFT 50th Percentile: 88.6540412902832
+TTFT Average: 210.27007289961273
+E2E 95th Percentile: 115402.17914581299
+E2E 50th Percentile: 32730.709075927734
+E2E Average: 44151.83280095333
+----------------- batch_0312_2gpu/qps0.15_queue1600.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 541.0978794097899
+TTFT 50th Percentile: 143.79072189331055
+TTFT Average: 198.79630834114653
+E2E 95th Percentile: 145039.87550735474
+E2E 50th Percentile: 37297.97029495239
+E2E Average: 55013.884431507744
+----------------- batch_0312_2gpu/qps0.15_queue200.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 515.2667999267578
+TTFT 50th Percentile: 24.624347686767578
+TTFT Average: 73.206068754864
+E2E 95th Percentile: 72018.17293167114
+E2E 50th Percentile: 6506.323575973511
+E2E Average: 22045.752989477805
+----------------- batch_0312_2gpu/qps0.15_queue800.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 517.5177574157715
+TTFT 50th Percentile: 95.82328796386719
+TTFT Average: 147.65053837239242
+E2E 95th Percentile: 101551.91469192505
+E2E 50th Percentile: 26484.667539596558
+E2E Average: 38774.447195336266
+----------------- batch_0312_2gpu/qps0.15_queue1200.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 515.9493446350098
+TTFT 50th Percentile: 141.99566841125488
+TTFT Average: 196.48737266284078
+E2E 95th Percentile: 139038.46383094788
+E2E 50th Percentile: 37546.860456466675
+E2E Average: 53655.455669435134
+----------------- batch_0312_2gpu/qps0.15_queue1800.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 564.6679401397705
+TTFT 50th Percentile: 144.67453956604004
+TTFT Average: 207.46506162050392
+E2E 95th Percentile: 145958.03499221802
+E2E 50th Percentile: 37678.17664146423
+E2E Average: 55950.55172490139
+----------------- batch_0312_2gpu/qps0.15_queue2400.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 910.6454849243158
+TTFT 50th Percentile: 173.95710945129395
+TTFT Average: 265.8454163067815
+E2E 95th Percentile: 157184.23237800598
+E2E 50th Percentile: 40198.56572151184
+E2E Average: 58650.70757545343
+----------------- batch_0312_2gpu/qps0.15_queue-1.0_cert0.2_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 514.8739337921143
+TTFT 50th Percentile: 19.40751075744629
+TTFT Average: 69.4689076153838
+E2E 95th Percentile: 66143.29237937927
+E2E 50th Percentile: 5775.2721309661865
+E2E Average: 18922.485012300207
+----------------- batch_0312_2gpu/qps0.15_queue1600.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 585.1516246795653
+TTFT 50th Percentile: 147.5045680999756
+TTFT Average: 216.20204535519042
+E2E 95th Percentile: 156182.17968940735
+E2E 50th Percentile: 40404.76417541504
+E2E Average: 58950.83026057866
+----------------- batch_0312_2gpu/qps0.15_queue200.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 547.9301929473876
+TTFT 50th Percentile: 50.690412521362305
+TTFT Average: 95.00488847577606
+E2E 95th Percentile: 85421.10958099365
+E2E 50th Percentile: 11769.50478553772
+E2E Average: 33570.89145043317
+----------------- batch_0312_2gpu/qps0.15_queue800.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 549.250555038452
+TTFT 50th Percentile: 104.30335998535156
+TTFT Average: 166.79267188748057
+E2E 95th Percentile: 120940.22874832153
+E2E 50th Percentile: 36073.355197906494
+E2E Average: 47577.873479752314
+----------------- batch_0312_2gpu/qps0.15_queue1200.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 552.0882129669188
+TTFT 50th Percentile: 146.92020416259766
+TTFT Average: 213.64887355088518
+E2E 95th Percentile: 151407.5517654419
+E2E 50th Percentile: 39934.950828552246
+E2E Average: 57367.37688315683
+----------------- batch_0312_2gpu/qps0.15_queue1800.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 600.8272171020508
+TTFT 50th Percentile: 148.84638786315918
+TTFT Average: 222.05994977336638
+E2E 95th Percentile: 155929.86249923706
+E2E 50th Percentile: 40603.97505760193
+E2E Average: 58321.13397421957
+----------------- batch_0312_2gpu/qps0.15_queue2400.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 913.4064197540279
+TTFT 50th Percentile: 182.01637268066406
+TTFT Average: 280.59053020317015
+E2E 95th Percentile: 161139.11786079404
+E2E 50th Percentile: 39779.96730804443
+E2E Average: 59688.85147003901
+----------------- batch_0312_2gpu/qps0.15_queue-1.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 547.2744464874266
+TTFT 50th Percentile: 31.23617172241211
+TTFT Average: 91.36010084499497
+E2E 95th Percentile: 83658.52069854736
+E2E 50th Percentile: 10541.738986968994
+E2E Average: 32285.6234542462
+----------------- batch_0312_2gpu/qps0.15_queue3200.0_cert0.1_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1155.1580429077148
+TTFT 50th Percentile: 233.9625358581543
+TTFT Average: 370.84568248075595
+E2E 95th Percentile: 168591.82691574097
+E2E 50th Percentile: 39082.52573013306
+E2E Average: 58052.99070302178
+----------------- batch_0312_2gpu/qps0.15_queue4000.0_cert0.2_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1429.4769763946533
+TTFT 50th Percentile: 249.21846389770508
+TTFT Average: 512.828759452542
+E2E 95th Percentile: 174684.42559242249
+E2E 50th Percentile: 38529.6094417572
+E2E Average: 61435.79601640461
+----------------- batch_0312_2gpu/qps0.15_queue3200.0_cert0.3_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 1154.797077178955
+TTFT 50th Percentile: 238.60931396484375
+TTFT Average: 392.0838999815014
+E2E 95th Percentile: 170825.44622421265
+E2E 50th Percentile: 41167.31405258179
+E2E Average: 59769.43322323284
+----------------- batch_0312_2gpu/medusa_qps0.15_queue9999999.0_cert0.0_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 2879.710912704468
+TTFT 50th Percentile: 447.2923278808594
+TTFT Average: 792.5780440578942
+E2E 95th Percentile: 202622.5140094757
+E2E 50th Percentile: 68388.38315010071
+E2E Average: 87472.2294687223
+----------------- batch_0312_2gpu/medusa_qps0.15_queue9999999.0_cert0.0_i1_1b_70b_2x1600_42s.json
+TTFT 95th Percentile: 2791.9540405273438
+TTFT 50th Percentile: 359.8933219909668
+TTFT Average: 710.2957065699815
+E2E 95th Percentile: 200761.88778877258
+E2E 50th Percentile: 66195.82438468933
+E2E Average: 85982.46739825615
+----------------- batch_0312_2gpu/ms_qps0.15_queue100.0_cert0.0_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 7546.922206878662
+TTFT 50th Percentile: 453.0336856842041
+TTFT Average: 1470.8595338620637
+E2E 95th Percentile: 180683.15687179565
+E2E 50th Percentile: 32773.55933189392
+E2E Average: 58472.498501048365
+----------------- batch_0312_2gpu/ms_qps0.15_queue100.0_cert0.0_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 98.58193397521973
+TTFT 50th Percentile: 30.1361083984375
+TTFT Average: 49.811210952887016
+E2E 95th Percentile: 74444.68140602112
+E2E 50th Percentile: 7646.218299865723
+E2E Average: 20541.367909487555
+----------------- batch_0312_2gpu/ms_qps0.15_queue100.0_cert0.0_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 98.12169075012207
+TTFT 50th Percentile: 29.643774032592773
+TTFT Average: 49.34267303188976
+E2E 95th Percentile: 74013.15450668335
+E2E 50th Percentile: 7434.768199920654
+E2E Average: 20506.833991416697
+----------------- batch_0312_2gpu/ms_qps0.15_queue100.0_cert0.0_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 97.92218208312987
+TTFT 50th Percentile: 30.03072738647461
+TTFT Average: 49.36566606623118
+E2E 95th Percentile: 72952.60715484619
+E2E 50th Percentile: 7243.787050247192
+E2E Average: 19985.713935365864
+----------------- batch_0312_2gpu/ms_qps0.15_queue2400.0_cert0.0_i1_3b_70b_2x1600_42s.json
+TTFT 95th Percentile: 895.2450752258301
+TTFT 50th Percentile: 172.12748527526855
+TTFT Average: 249.64214907306916
+E2E 95th Percentile: 155959.2164993286
+E2E 50th Percentile: 37522.06873893738
+E2E Average: 56625.54854438418
+----------------- batch_0312_2gpu/Meta-Llama-3.1-70B-Instruct-quantized.w4a16
+TTFT 95th Percentile: 2210.747241973877
+TTFT 50th Percentile: 542.779803276062
+TTFT Average: 770.5644515844492
+E2E 95th Percentile: 183439.73398208618
+E2E 50th Percentile: 47059.19814109802
+E2E Average: 64907.94116607079
+----------------- batch_0312_2gpu/Meta-Llama-3.1-8B-Instruct-quantized.w8a16
+TTFT 95th Percentile: 242.7515983581543
+TTFT 50th Percentile: 73.72927665710449
+TTFT Average: 95.1416877599863
+E2E 95th Percentile: 46114.73083496093
+E2E 50th Percentile: 41278.37800979614
+E2E Average: 32452.362590569715
