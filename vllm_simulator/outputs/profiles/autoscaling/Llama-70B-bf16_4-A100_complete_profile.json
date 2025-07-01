@@ -1,0 +1,63 @@
+{
+    "block_size": 16,
+    "cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": null,
+        "intervals": {
+            "(0, 32)": {
+                "intercept": 0.029,
+                "slope": 0
+            },
+            "(32, 64)": {
+                "intercept": 0.01970000000000001,
+                "slope": 0.00029062499999999976
+            },
+            "(64, 128)": {
+                "intercept": 0.029799999999999993,
+                "slope": 0.0001328125
+            }
+        },
+        "max_model_len": 8192,
+        "max_num_batched_tokens": 128,
+        "max_num_seqs": 8192,
+        "model": "Llama-70B-bf16",
+        "model_name": "Llama-70B-bf16",
+        "num_gpu_blocks": 35942,
+        "num_watermark_blocks": 3,
+        "uses_cuda": true
+    },
+    "input_token_upper_limit": null,
+    "max_model_len": 8192,
+    "max_num_batched_tokens": 128,
+    "max_num_seqs": 8192,
+    "model": "Llama-70B-bf16",
+    "model_name": "Llama-70B-bf16",
+    "no_cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": null,
+        "intervals": {
+            "(0, 32)": {
+                "intercept": 0.029,
+                "slope": 0
+            },
+            "(32, 64)": {
+                "intercept": 0.01970000000000001,
+                "slope": 0.00029062499999999976
+            },
+            "(64, 128)": {
+                "intercept": 0.029799999999999993,
+                "slope": 0.0001328125
+            }
+        },
+        "max_model_len": 8192,
+        "max_num_batched_tokens": 128,
+        "max_num_seqs": 8192,
+        "model": "Llama-70B-bf16",
+        "model_name": "Llama-70B-bf16",
+        "num_gpu_blocks": 35942,
+        "num_watermark_blocks": 3,
+        "uses_cuda": false
+    },
+    "num_gpu_blocks": 35942,
+    "num_watermark_blocks": 3
+}

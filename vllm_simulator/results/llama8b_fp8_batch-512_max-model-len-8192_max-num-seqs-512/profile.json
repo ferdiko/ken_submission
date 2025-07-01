@@ -1,0 +1,143 @@
+{
+    "block_size": 16,
+    "cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": 512,
+        "intervals": {
+            "(0, 1)": {
+                "intercept": 0.010765552520751953,
+                "slope": 0
+            },
+            "(1, 5)": {
+                "intercept": 0.010673344135284424,
+                "slope": 9.22083854675293e-05
+            },
+            "(101, 117)": {
+                "intercept": 0.01854795217514038,
+                "slope": 3.1054019927978516e-05
+            },
+            "(117, 145)": {
+                "intercept": -0.001077158110482354,
+                "slope": 0.00019879000527518137
+            },
+            "(145, 201)": {
+                "intercept": 0.012610984700066701,
+                "slope": 0.00010438902037484305
+            },
+            "(17, 21)": {
+                "intercept": 0.016528069972991943,
+                "slope": -0.00019043684005737305
+            },
+            "(201, 245)": {
+                "intercept": 0.02547473257238215,
+                "slope": 4.039027474143288e-05
+            },
+            "(21, 45)": {
+                "intercept": 0.010314643383026123,
+                "slope": 0.00010544061660766602
+            },
+            "(245, 301)": {
+                "intercept": -0.018309742212295532,
+                "slope": 0.00021910241671970913
+            },
+            "(301, 401)": {
+                "intercept": 0.016032352447509765,
+                "slope": 0.00010500907897949219
+            },
+            "(401, 512)": {
+                "intercept": 0.02532332897186279,
+                "slope": 8.183956146240234e-05
+            },
+            "(45, 53)": {
+                "intercept": 0.014370143413543701,
+                "slope": 1.531839370727539e-05
+            },
+            "(5, 17)": {
+                "intercept": 0.010235945383707683,
+                "slope": 0.0001796881357828776
+            },
+            "(53, 101)": {
+                "intercept": 0.008002296090126038,
+                "slope": 0.00013546645641326904
+            }
+        },
+        "max_model_len": 8192,
+        "max_num_batched_tokens": 512,
+        "max_num_seqs": 512,
+        "model": "neuralmagic/Meta-Llama-3-8B-Instruct-FP8",
+        "model_name": "llama8b_fp8",
+        "num_gpu_blocks": 33756,
+        "num_watermark_blocks": 337,
+        "uses_cuda": true
+    },
+    "input_token_upper_limit": 512,
+    "max_model_len": 8192,
+    "max_num_batched_tokens": 512,
+    "max_num_seqs": 512,
+    "model": "neuralmagic/Meta-Llama-3-8B-Instruct-FP8",
+    "model_name": "llama8b_fp8",
+    "no_cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": 512,
+        "intervals": {
+            "(0, 1)": {
+                "intercept": 0.011115550994873047,
+                "slope": 0
+            },
+            "(1, 2)": {
+                "intercept": 0.004487752914428711,
+                "slope": 0.006627798080444336
+            },
+            "(102, 152)": {
+                "intercept": 0.014174728393554686,
+                "slope": 3.872871398925781e-05
+            },
+            "(152, 202)": {
+                "intercept": 0.014980697631835939,
+                "slope": 3.342628479003906e-05
+            },
+            "(2, 52)": {
+                "intercept": 0.017749032974243163,
+                "slope": -2.841949462890625e-06
+            },
+            "(202, 252)": {
+                "intercept": 0.01600170135498047,
+                "slope": 2.8371810913085938e-05
+            },
+            "(252, 302)": {
+                "intercept": -0.07100830078125,
+                "slope": 0.00037364959716796876
+            },
+            "(302, 352)": {
+                "intercept": 0.10994671821594239,
+                "slope": -0.0002255392074584961
+            },
+            "(352, 402)": {
+                "intercept": -0.002356138229370121,
+                "slope": 9.350299835205078e-05
+            },
+            "(402, 452)": {
+                "intercept": 0.021493749618530275,
+                "slope": 3.417491912841797e-05
+            },
+            "(452, 512)": {
+                "intercept": 0.022183446884155272,
+                "slope": 3.264904022216797e-05
+            },
+            "(52, 102)": {
+                "intercept": 0.017056493759155272,
+                "slope": 1.0476112365722656e-05
+            }
+        },
+        "max_model_len": 8192,
+        "max_num_batched_tokens": 512,
+        "max_num_seqs": 512,
+        "model": "neuralmagic/Meta-Llama-3-8B-Instruct-FP8",
+        "model_name": "llama8b_fp8",
+        "num_gpu_blocks": 33756,
+        "num_watermark_blocks": 337,
+        "uses_cuda": false
+    },
+    "num_gpu_blocks": 33756,
+    "num_watermark_blocks": 337
+}

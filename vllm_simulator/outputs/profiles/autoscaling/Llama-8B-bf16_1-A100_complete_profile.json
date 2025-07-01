@@ -1,0 +1,127 @@
+{
+    "block_size": 16,
+    "cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": null,
+        "intervals": {
+            "(0, 1)": {
+                "intercept": 0.0155,
+                "slope": 0
+            },
+            "(1, 8)": {
+                "intercept": 0.0154,
+                "slope": 9.99999999999999e-05
+            },
+            "(1024, 1536)": {
+                "intercept": 0.01450000000000004,
+                "slope": 9.453124999999997e-05
+            },
+            "(128, 256)": {
+                "intercept": 0.019200000000000002,
+                "slope": 5.546874999999999e-05
+            },
+            "(1536, 2048)": {
+                "intercept": -0.002900000000000097,
+                "slope": 0.00010585937500000005
+            },
+            "(16, 32)": {
+                "intercept": 0.014999999999999996,
+                "slope": 0.00011875000000000015
+            },
+            "(256, 512)": {
+                "intercept": 0.007800000000000001,
+                "slope": 9.999999999999999e-05
+            },
+            "(32, 64)": {
+                "intercept": 0.015100000000000002,
+                "slope": 0.00011562499999999995
+            },
+            "(512, 1024)": {
+                "intercept": 0.006699999999999998,
+                "slope": 0.0001021484375
+            },
+            "(64, 128)": {
+                "intercept": 0.018699999999999998,
+                "slope": 5.937500000000002e-05
+            },
+            "(8, 16)": {
+                "intercept": 0.0155,
+                "slope": 8.74999999999999e-05
+            }
+        },
+        "max_model_len": 8192,
+        "max_num_batched_tokens": 2048,
+        "max_num_seqs": 8192,
+        "model": "Llama-8B-bf16",
+        "model_name": "Llama-8B-bf16",
+        "num_gpu_blocks": 31997,
+        "num_watermark_blocks": 3,
+        "uses_cuda": true
+    },
+    "input_token_upper_limit": null,
+    "max_model_len": 8192,
+    "max_num_batched_tokens": 2048,
+    "max_num_seqs": 8192,
+    "model": "Llama-8B-bf16",
+    "model_name": "Llama-8B-bf16",
+    "no_cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": null,
+        "intervals": {
+            "(0, 1)": {
+                "intercept": 0.0155,
+                "slope": 0
+            },
+            "(1, 8)": {
+                "intercept": 0.0154,
+                "slope": 9.99999999999999e-05
+            },
+            "(1024, 1536)": {
+                "intercept": 0.01450000000000004,
+                "slope": 9.453124999999997e-05
+            },
+            "(128, 256)": {
+                "intercept": 0.019200000000000002,
+                "slope": 5.546874999999999e-05
+            },
+            "(1536, 2048)": {
+                "intercept": -0.002900000000000097,
+                "slope": 0.00010585937500000005
+            },
+            "(16, 32)": {
+                "intercept": 0.014999999999999996,
+                "slope": 0.00011875000000000015
+            },
+            "(256, 512)": {
+                "intercept": 0.007800000000000001,
+                "slope": 9.999999999999999e-05
+            },
+            "(32, 64)": {
+                "intercept": 0.015100000000000002,
+                "slope": 0.00011562499999999995
+            },
+            "(512, 1024)": {
+                "intercept": 0.006699999999999998,
+                "slope": 0.0001021484375
+            },
+            "(64, 128)": {
+                "intercept": 0.018699999999999998,
+                "slope": 5.937500000000002e-05
+            },
+            "(8, 16)": {
+                "intercept": 0.0155,
+                "slope": 8.74999999999999e-05
+            }
+        },
+        "max_model_len": 8192,
+        "max_num_batched_tokens": 2048,
+        "max_num_seqs": 8192,
+        "model": "Llama-8B-bf16",
+        "model_name": "Llama-8B-bf16",
+        "num_gpu_blocks": 31997,
+        "num_watermark_blocks": 3,
+        "uses_cuda": false
+    },
+    "num_gpu_blocks": 31997,
+    "num_watermark_blocks": 3
+}

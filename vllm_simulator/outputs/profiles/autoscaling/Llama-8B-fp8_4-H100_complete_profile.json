@@ -1,0 +1,79 @@
+{
+    "block_size": 16,
+    "cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": null,
+        "intervals": {
+            "(0, 32)": {
+                "intercept": 0.0119,
+                "slope": 0
+            },
+            "(128, 256)": {
+                "intercept": 0.007199999999999998,
+                "slope": 4.531250000000001e-05
+            },
+            "(256, 512)": {
+                "intercept": 0.0068000000000000005,
+                "slope": 4.6875e-05
+            },
+            "(32, 64)": {
+                "intercept": 0.011200000000000002,
+                "slope": 2.1874999999999976e-05
+            },
+            "(64, 128)": {
+                "intercept": 0.0122,
+                "slope": 6.249999999999989e-06
+            }
+        },
+        "max_model_len": 8192,
+        "max_num_batched_tokens": 512,
+        "max_num_seqs": 8192,
+        "model": "Llama-8B-fp8",
+        "model_name": "Llama-8B-fp8",
+        "num_gpu_blocks": 255976,
+        "num_watermark_blocks": 3,
+        "uses_cuda": true
+    },
+    "input_token_upper_limit": null,
+    "max_model_len": 8192,
+    "max_num_batched_tokens": 512,
+    "max_num_seqs": 8192,
+    "model": "Llama-8B-fp8",
+    "model_name": "Llama-8B-fp8",
+    "no_cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": null,
+        "intervals": {
+            "(0, 32)": {
+                "intercept": 0.0119,
+                "slope": 0
+            },
+            "(128, 256)": {
+                "intercept": 0.007199999999999998,
+                "slope": 4.531250000000001e-05
+            },
+            "(256, 512)": {
+                "intercept": 0.0068000000000000005,
+                "slope": 4.6875e-05
+            },
+            "(32, 64)": {
+                "intercept": 0.011200000000000002,
+                "slope": 2.1874999999999976e-05
+            },
+            "(64, 128)": {
+                "intercept": 0.0122,
+                "slope": 6.249999999999989e-06
+            }
+        },
+        "max_model_len": 8192,
+        "max_num_batched_tokens": 512,
+        "max_num_seqs": 8192,
+        "model": "Llama-8B-fp8",
+        "model_name": "Llama-8B-fp8",
+        "num_gpu_blocks": 255976,
+        "num_watermark_blocks": 3,
+        "uses_cuda": false
+    },
+    "num_gpu_blocks": 255976,
+    "num_watermark_blocks": 3
+}

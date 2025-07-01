@@ -1,0 +1,127 @@
+{
+    "block_size": 16,
+    "cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": 1003,
+        "intervals": {
+            "(0, 1)": {
+                "intercept": 0.01028132438659668,
+                "slope": 0
+            },
+            "(1, 101)": {
+                "intercept": 0.010153088569641113,
+                "slope": 0.0001282358169555664
+            },
+            "(101, 201)": {
+                "intercept": 0.018357961177825927,
+                "slope": 4.6999454498291015e-05
+            },
+            "(201, 301)": {
+                "intercept": -0.0010327720642089866,
+                "slope": 0.00014347076416015625
+            },
+            "(301, 401)": {
+                "intercept": 0.006368248462677001,
+                "slope": 0.00011888265609741211
+            },
+            "(401, 501)": {
+                "intercept": 0.030681772232055666,
+                "slope": 5.825042724609375e-05
+            },
+            "(501, 601)": {
+                "intercept": -0.023080446720123285,
+                "slope": 0.000165560245513916
+            },
+            "(601, 701)": {
+                "intercept": -0.00916273117065429,
+                "slope": 0.00014240264892578124
+            },
+            "(701, 801)": {
+                "intercept": -0.03169204711914064,
+                "slope": 0.00017454147338867188
+            },
+            "(801, 901)": {
+                "intercept": 0.035351033210754404,
+                "slope": 9.084224700927734e-05
+            },
+            "(901, 1003)": {
+                "intercept": 0.005571210384368905,
+                "slope": 0.00012389421463012695
+            }
+        },
+        "max_model_len": 2048,
+        "max_num_batched_tokens": 1024,
+        "max_num_seqs": 1003,
+        "model": "neuralmagic/Meta-Llama-3-8B-Instruct-FP8",
+        "model_name": "llama-8b_L40S",
+        "num_gpu_blocks": 31471,
+        "num_watermark_blocks": 314,
+        "uses_cuda": true
+    },
+    "input_token_upper_limit": 1024,
+    "max_model_len": 2048,
+    "max_num_batched_tokens": 1024,
+    "max_num_seqs": 1003,
+    "model": "neuralmagic/Meta-Llama-3-8B-Instruct-FP8",
+    "model_name": "llama-8b_L40S",
+    "no_cuda_profile": {
+        "block_size": 16,
+        "input_token_upper_limit": 1003,
+        "intervals": {
+            "(0, 1)": {
+                "intercept": 0.01028132438659668,
+                "slope": 0
+            },
+            "(1, 101)": {
+                "intercept": 0.010153088569641113,
+                "slope": 0.0001282358169555664
+            },
+            "(101, 201)": {
+                "intercept": 0.018357961177825927,
+                "slope": 4.6999454498291015e-05
+            },
+            "(201, 301)": {
+                "intercept": -0.0010327720642089866,
+                "slope": 0.00014347076416015625
+            },
+            "(301, 401)": {
+                "intercept": 0.006368248462677001,
+                "slope": 0.00011888265609741211
+            },
+            "(401, 501)": {
+                "intercept": 0.030681772232055666,
+                "slope": 5.825042724609375e-05
+            },
+            "(501, 601)": {
+                "intercept": -0.023080446720123285,
+                "slope": 0.000165560245513916
+            },
+            "(601, 701)": {
+                "intercept": -0.00916273117065429,
+                "slope": 0.00014240264892578124
+            },
+            "(701, 801)": {
+                "intercept": -0.03169204711914064,
+                "slope": 0.00017454147338867188
+            },
+            "(801, 901)": {
+                "intercept": 0.035351033210754404,
+                "slope": 9.084224700927734e-05
+            },
+            "(901, 1003)": {
+                "intercept": 0.005571210384368905,
+                "slope": 0.00012389421463012695
+            }
+        },
+        "max_model_len": 2048,
+        "max_num_batched_tokens": 1024,
+        "max_num_seqs": 1003,
+        "model": "neuralmagic/Meta-Llama-3-8B-Instruct-FP8",
+        "model_name": "llama-8b_L40S",
+        "num_gpu_blocks": 31471,
+        "num_watermark_blocks": 314,
+        "uses_cuda": true
+    },
+    "num_gpu_blocks": 31471,
+    "num_watermark_blocks": 314
+}
