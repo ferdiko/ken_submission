@@ -71,7 +71,7 @@ def optimize_acc(paths, p_latency, num_gpus, lat_slo=None, gpu_capacity=1.0):
         error_code, broken_qps = po.optimize(current_plan, p_latency=p_latency)
 
         if error_code == "latency_slo":
-            print("================== broken qps", broken_qps, "==================")
+            print("================== downgrade qps", broken_qps, "==================")
             # put neighbours into priority queue
             current_plan.downgrade(broken_qps)
             print("new acc:", current_plan.total_acc())
@@ -79,9 +79,6 @@ def optimize_acc(paths, p_latency, num_gpus, lat_slo=None, gpu_capacity=1.0):
             # for n in neighbours:
             #     ensemble_queue.put(n)
             # current_plan = ensemble_queue.get()
-
-        if error_code == "OOM":
-            raise NotImplementedError
 
     # Hack
     current_plan.finalize()
